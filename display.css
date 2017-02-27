@@ -1,0 +1,6 @@
+#display {
+  height: 20px;
+  width: auto;
+  background: inherit;
+  border: 2px solid black;
+}
